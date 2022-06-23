@@ -1,5 +1,5 @@
 {
-  "name": "sanity-plugin-webhook-deploy",
+  "name": "sanity-plugin-deploy-test",
   "version": "1.0.0",
   "description": "Simple tab to manually trigger webhook deploys",
   "main": "lib/index.js",
