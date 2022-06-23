@@ -13,7 +13,7 @@ import {
 	Label,
 } from '@sanity/ui';
 
-const WEBHOOK_TYPE = 'webhook_deploy';
+const WEBHOOK_TYPE = 'custom_webhook';
 
 const DeployModalNew = ({onClose}) => {
 	const toast = useToast();

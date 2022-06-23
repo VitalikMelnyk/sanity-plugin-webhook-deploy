@@ -3,7 +3,7 @@ import client from 'part:@sanity/base/client';
 import {Box, Card, Stack, Spinner} from '@sanity/ui';
 import DeployItem from './DeployItem';
 
-const WEBHOOK_TYPE = 'webhook_deploy';
+const WEBHOOK_TYPE = 'custom_webhook';
 const WEBHOOK_QUERY = `*[_type == "${WEBHOOK_TYPE}"] | order(_createdAt)`;
 
 //
