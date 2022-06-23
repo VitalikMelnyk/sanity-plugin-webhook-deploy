@@ -141,7 +141,7 @@ const DeployItem = ({hook}) => {
             <Button tone="critical" text="Delete" onClick={() => setConfirmOpen(true)} />
           </Box>
           <Box marginLeft={2}>
-            <Button tone="primary" text="Start Deploy" onClick={onDeploy} />
+            <Button tone="primary" text="Trigger" onClick={onDeploy} />
           </Box>
         </ActionsContainer>
       </CardRow>
