@@ -25,6 +25,7 @@
     "axios": "^0.24.0",
     "nanoid": "^3.1.32",
     "prop-types": "^15.8.1",
+    "react-icons": "^4.4.0",
     "styled-components": "^5.3.3"
   },
   "devDependencies": {
